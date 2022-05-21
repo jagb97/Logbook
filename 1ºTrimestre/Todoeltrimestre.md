@@ -1,4 +1,4 @@
-# global
+# Todo el primer trimestre
  
 24/09/21
 En la presentación de clase, se nos comentó sobre la normativa del FP, para conocer sus características.
