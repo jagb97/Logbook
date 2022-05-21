@@ -1,2 +1,2 @@
 # **SABIDURÍA**
-![sabiduria](https://c.tenor.com/jAgn70Xu0TIAAAAd/exams-exam-memes.gif)
+![sabiduria](/3%C2%BATrimestre/tresfotos/exams-exam-memes.gif) 
