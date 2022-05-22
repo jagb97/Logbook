@@ -1,0 +1,278 @@
+juan@DESKTOP-2N8KECL MINGW64 /logbook (master)
+$ git log
+commit 0e095131736c6186a2d63ea711ba553f64106372 (HEAD -> master, origin/master)
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sun May 22 12:26:07 2022 +0200
+
+    commits en texto plano
+
+commit 61b58ee0866084653a9da0c8835e89666ca9f2ad
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 22:12:19 2022 +0200
+
+    comandos tercer trimestre
+
+commit 10c1e4046b43c87e8f59a4be892653e9758d165d
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 22:11:24 2022 +0200
+
+    ignorando el .zip del tercer trimestre
+
+commit 75e32407cd01274ab90069568495413e2df8a518
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 22:03:06 2022 +0200
+
+    trabajo final
+
+commit daea4751238d6569c1ad63214498328c88ed423c
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 21:47:00 2022 +0200
+
+    cuestionarios del tercer trimestre
+
+commit 60e2342ffb9610d58ee2a3b567c526c3791fc7e8
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 21:33:02 2022 +0200
+
+    Desesperante
+
+commit 0fd62c94c2ee3a0718d80807123e8f226ee81e3a
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 21:29:49 2022 +0200
+
+    aún más perdidos 2.0
+
+commit 9aa275597fa8208cb7a5e33b6226a458ddcb3a01
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 21:26:14 2022 +0200
+
+    aun más perdidos
+
+commit a3f04fbd28de8e846c555289803fcda36f7f5935
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 21:12:35 2022 +0200
+
+    comandos del segundo trimestre
+
+commit 525731008d76e2fa59bd8e37793846ab4ecbfb53
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 21:09:22 2022 +0200
+
+    examen segunda evaluación
+
+commit 9a991f5d84224f5208cdb72a45dcaac9eef54a18
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 21:04:25 2022 +0200
+
+    sabiduría 2.0
+
+commit 07f754be8d053ed021909c94d9059695afb7d996
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 21:00:57 2022 +0200
+
+     Sabiduría
+
+commit 2a5c45fd05f28647fa7e9c4a3e501de5d30f2578
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 20:59:28 2022 +0200
+
+    sabiduria
+
+commit 8dbf28141d2910b17035ee022301d98b6971e507
+Merge: 8313841 97882f0
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 20:55:00 2022 +0200
+
+    sabiduria
+
+commit 831384164f5912ee78e723ed5d5ec5bada2162a9
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 20:53:16 2022 +0200
+
+    sabiduría
+
+commit 834230645e6c25d2daea73c2dab756ae7d446197
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 20:51:29 2022 +0200
+
+    sabiduría
+
+commit 7a2ffa80245c6aaf9f09f61fd58d8bc83ab966f5
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 20:49:33 2022 +0200
+
+    cogiendo sabiduría
+
+commit 97882f0865ddae36818ac930ce223e0d9433f3e8
+Author: jagb97 <94231059+jagb97@users.noreply.github.com>
+Date:   Sat May 21 20:46:49 2022 +0200
+
+    Update README.md
+
+commit 8ef30d7ef17536c441ac784648993a1fc4046b4c
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 20:25:18 2022 +0200
+
+    el terror del marcha paro de las vías
+
+commit 04e9dd8a26cf9b6972fa4d5e5e5c3a323d7c9956
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 19:56:36 2022 +0200
+
+    simulaciones lógicas y flip flops
+
+commit 4b4c1a404d4ead8b6391ffa396f82b2301865798
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 19:34:15 2022 +0200
+
+    ignorando el .zip
+
+commit 2353de4b750c515e714e52dccc0d9487dd61ce6a
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 19:24:35 2022 +0200
+
+    Los comandos del primer trimestre y la corrección
+
+commit ca73000d6d695b6e89b86b4070fcbcffe267762c
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 18:22:15 2022 +0200
+
+    ignorando el .zip
+
+commit 86d0d8b013a1709d9747ee266a20ee069fceb68b
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 18:11:59 2022 +0200
+
+    poniendo fotos en 211008
+
+commit cb672cdbc42571bf85c272b0262e7265399510e1
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:48:40 2022 +0200
+
+    no quiero suspender
+
+commit da1706a700c442e808c122b8b6aa62bba337c2c9
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:45:58 2022 +0200
+
+    fotos de los MB, MiB y las puertas
+
+commit 09326bb83f733cfad84d9c599ea52f27e71959d9
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:37:20 2022 +0200
+
+    foto puesta
+
+commit b14cd1f3563f7df11b5cea2d29943d9dd0348f52
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:34:34 2022 +0200
+
+    quinto intento de poner foto
+
+commit e7b7639cd2311a914ac355ff849a98b57ea2080e
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:30:48 2022 +0200
+
+    cuarto intento de foto
+
+commit d922bf0316b963da27e3cdb63824aef7584386b3
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:30:03 2022 +0200
+
+    tercer intento de foto
+
+commit 023666d0572dd463c7b474aefebfa43d4f383298
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:23:58 2022 +0200
+
+    prueba de poner foto 2
+
+commit 964d2e3f321c721a5ccd80719b7f1efa0d91da3a
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:18:48 2022 +0200
+
+    prueba de poner foto
+
+commit 7fe8ac6f4d1f4f906016c4b58ab1d785c3a4e4d2
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:13:42 2022 +0200
+
+    fotos del primer trimestre
+
+commit eff39a89d9e15f560dcabe157cfaf6c0c3c60357
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 17:00:34 2022 +0200
+
+    resultados del primer trimestre
+
+commit 853856f98b4186bed00217e40f5e92d11416a096
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 16:58:14 2022 +0200
+
+    Trabajo en casa del primer trimestre
+
+commit 49253b5c20fa677b80bbcacf653d86551df621ba
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 16:55:10 2022 +0200
+
+    Preparativos para el examen
+
+commit de1e4461cf8c6d673407f8fd89df08ec69f9bf2d
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 16:45:00 2022 +0200
+
+    diferencias entre MiB y MB, las puertas del infierno
+
+commit 898656df467d68b9b331d1e9e71f38cc432fb343
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 14:32:53 2022 +0200
+
+    Primera práctica y tarea de instalación del kubuntu
+
+commit b14deae5d52f6d77a6a6e49814272897c2efa415
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 14:26:43 2022 +0200
+
+    cambiando el título
+
+commit 805bfdb3f8f0d77be7bf599308d79dc6a6db983f
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 14:25:08 2022 +0200
+
+    cambiando el nombre del global a todo el trimestre
+
+commit 9370c6ea3e4920275064ac3f3280fe900d65ca7e
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 14:21:46 2022 +0200
+
+    Primer día de clase y siguen los sustos
+
+commit 661786f830526e5e8aa132e2a9417d19cc30c920
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 14:02:34 2022 +0200
+
+    foto de perfil, casual entre otras
+
+commit 82756168224c6e89bbaf192c20a0c547c24a6e04
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 13:45:27 2022 +0200
+
+    dia de la presentación
+
+commit 0e123d1018736132dc25ef7790c573286cce337a
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Sat May 21 13:36:19 2022 +0200
+
+    todo el año
+
+commit 0d4f02790516603c77a57ccb850c0ce3ade8d461
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Tue May 17 21:51:55 2022 +0200
+
+    creación de carpetas más el ignore
+
+commit 5171f26c6105cb46cca81e6dbe38525cd328e354
+Author: jagb97 <garciabotellajuanantonio@gmail.com>
+Date:   Tue May 17 21:46:05 2022 +0200
+
+    he creado readme
